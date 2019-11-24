@@ -1,0 +1,19 @@
+{
+  "access-control-allow-origin": "*",
+  "access-control-expose-headers": "Content-Length",
+  "age": "460",
+  "alt-svc": "quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000",
+  "cache-control": "public, max-age=86400, no-transform",
+  "connection": "close",
+  "content-disposition": "inline;filename=\"pasted image 0.png\"",
+  "content-length": "1802250",
+  "content-type": "image/png",
+  "date": "Sun, 03 Nov 2019 22:32:41 GMT",
+  "etag": "\"v1\"",
+  "expires": "Mon, 04 Nov 2019 22:32:41 GMT",
+  "server": "fife",
+  "timing-allow-origin": "*",
+  "vary": "Origin",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0"
+}
